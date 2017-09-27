@@ -62,7 +62,7 @@ public class Lab3 {
             }
             if (current == space && !skip) {
                 words = words + 1;
-                System.out.println(skip);
+                System.out.pri ntln(skip);
                 System.out.println("word count:" + words);
             }
             if (current != space) {
